@@ -9,7 +9,7 @@ Aplikasi berbasis mobile sederhana untuk melakukan konversi satuan. Satuan yang 
 - Suhu
 
   ## How to use
-  ![](https://github.com/GabrielMoody/Metric_converter-GabrielMoodyWaworundeng-Ionic/blob/main/assets/use.gif)
+  ![](https://github.com/GabrielMoody/Metric-Converter_Gabriel-Moody-Waworundeng_Ionic/blob/main/assets/use.gif)
 
   ## File APK
-  
+  https://drive.google.com/file/d/1U6XnorY1zfY3SmQfC7oD5jrb8IbMpaY3/view?usp=sharing 
